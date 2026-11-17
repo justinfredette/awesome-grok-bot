@@ -882,3 +882,4 @@ Back to [README](../../README.md)
 - [Captain Noah fleet export](https://x.ai/bot/x0dzjjBbFTI6jRKYdBKnY) - Beaver ship captain with one job, exporting your whole Grok Bot fleet before the move. [Carlo](https://x.com/carlomakes).
 - [Use Cases](https://x.ai/bot/w59Gz0num4hDcLd1vjSQJ) - Finds real Grok Bot use cases trending on X and helps newer users start one or build their own. [nahjuin](https://x.com/nahjuin).
 - [Phone Harness Wizard](https://x.ai/bot/EtXBSv57CQo1dxFghmslA) - Step-by-step guide that connects your iPhone, Android or cloud phone to Grok Bot and proves it works. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Fleet Credit Saver v2](https://x.ai/bot/SjTK9SoaPKcIw-FVoThhe) - Finds which bots and routines use the most for the least value, including bots waking each other and group-chat pile-ons, and helps you fix them with your yes. [Justin](https://x.com/justinfredette).

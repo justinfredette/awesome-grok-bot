@@ -164282,6 +164282,26 @@
       "updated": "2026-11-17",
       "shelf": "raw",
       "source": "https://x.com/SamehJ59122/status/2122661789015969814"
+    },
+    {
+      "slug": "fleet-credit-saver-v2",
+      "name": "Fleet Credit Saver v2",
+      "author": {
+        "name": "Justin",
+        "url": "https://x.com/justinfredette"
+      },
+      "summary": "Finds which bots and routines use the most for the least value, including bots waking each other and group-chat pile-ons, and helps you fix them with your yes.",
+      "summary_zh": "找出哪些机器人和定时任务占用最多、收效最少，包括机器人互相唤醒和群聊扎堆回复，并在你同意后一步一步帮你改。",
+      "import": "https://x.ai/bot/SjTK9SoaPKcIw-FVoThhe",
+      "category": "teams-handoffs",
+      "tags": [
+        "usage",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-17",
+      "shelf": "raw"
     }
   ]
 }

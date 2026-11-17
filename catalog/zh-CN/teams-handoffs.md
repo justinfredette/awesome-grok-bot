@@ -882,3 +882,4 @@
 - [Captain Noah fleet export](https://x.ai/bot/x0dzjjBbFTI6jRKYdBKnY) - 一位海狸船长，只做一件事：在搬迁前导出你的整套 Grok Bot. [Carlo](https://x.com/carlomakes).
 - [Use Cases](https://x.ai/bot/w59Gz0num4hDcLd1vjSQJ) - 找出 X 上正在流行的 Grok Bot 真实用法，帮新手上手或自己搭一个. [nahjuin](https://x.com/nahjuin).
 - [Phone Harness Wizard](https://x.ai/bot/EtXBSv57CQo1dxFghmslA) - 手把手引导，把 iPhone、安卓或云手机接入 Grok Bot 并验证可用. [Shagghie](https://x.com/PixelRainbowNFT).
+- [Fleet Credit Saver v2](https://x.ai/bot/SjTK9SoaPKcIw-FVoThhe) - 找出哪些机器人和定时任务占用最多、收效最少，包括机器人互相唤醒和群聊扎堆回复，并在你同意后一步一步帮你改。 [Justin](https://x.com/justinfredette).
